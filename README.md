@@ -10,7 +10,7 @@ Wonder Miner güvenli bir şekilde kripto madenciliği yaparak paranızı doğru
 - 💰 **Kazanmaya başlayın!**
 
 ## Topluluk
-- Resmi [Discord](https://discord.gg/wonder) sunucumuz
+- Resmi [Discord sunucumuz](https://discord.gg/wonder)
 - Resmi [web sitemiz](https://wonderminer.net)
 - Wonder Teknolojileri [(Wonder Software) resmi web sitesi](https://wonder.software)
 
@@ -28,6 +28,6 @@ Wonder Miner is a UI powered crypto mining software that allows you to securely 
 - 💰 **Start earning!**
 
 ## Community
-- Our official [Discord](https://discord.gg/wonder) server
+- Our official [Discord server](https://discord.gg/wonder)
 - Our official [website](https://wonderminer.net)
 - Wonder Technologies [(Wonder Software) official website](https://wonder.software)
